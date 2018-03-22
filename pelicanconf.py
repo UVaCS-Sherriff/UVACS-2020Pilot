@@ -46,8 +46,8 @@ MENUITEMS = (
     ('Apply to Join', 'https://goo.gl/forms/GP1FkCng6Zd2vMC73'),
     ('Courses', 'http://stardock.cs.virginia.edu/pilot.cs/category/courses'),
     ('Info for Students', 'http://stardock.cs.virginia.edu/pilot.cs/category/students'),
-    ('Info for Faculty', '#'),
-    ('FAQ', '#')
+    ('Info for Faculty', 'http://stardock.cs.virginia.edu/pilot.cs/category/faculty'),
+    ('FAQ', 'http://stardock.cs.virginia.edu/pilot.cs/category/faq')
 )
 
 SUMMARY_MAX_LENGTH = None

@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Mark Sherriff'
 SITENAME = 'UVA CS - 2020 Curriculum Pilot'
-SITEURL = 'http://pilot.cs.virginia.edu'
+SITEURL = 'http://stardock.cs.virginia.edu/pilot.cs'
 
 PATH = 'content'
 

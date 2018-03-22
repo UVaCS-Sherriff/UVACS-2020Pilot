@@ -42,8 +42,8 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = (
     ('Apply to Join', '#'),
-    ('Courses', '#'),
-    ('Info for Students', '#'),
+    ('Courses', 'category/courses'),
+    ('Info for Students', 'category/students'),
     ('Info for Faculty', '#'),
     ('FAQ', '#')
 )

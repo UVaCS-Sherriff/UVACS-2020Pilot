@@ -36,5 +36,5 @@ These courses principally draw content from CS 2110, CS 2150, and CS 4102, thoug
 #### Computer Organization and Architecture 1 and 2 (COA1 piloted Fall 2018, COA2 piloted Spring 2019)
 These courses principally draw content from CS 2150 and CS 3330, and to a lesser extent also from ECE 2330 and CS 4414, though not all of the topics from these courses are included and a few topics are pulled from some of our current electives. The sequence will help you understand how computers store data and run software and how to interact with computers at a fundamental level, including the basics of computer design, operating system functionality, and how to write and run low-level code.
 
-#### Software Engineering and Construction (SE&C piloted Spring 2019; not required of CAS students)
+#### Software Engineering and Construction (SEC piloted Spring 2019; not required of CAS students)
 This course principally draws content from CS 3240, and to a lesser extent also from CS 2110 and CS 2190, though not all of the topics from these courses are included and a few topics are pulled from some of our current electives. This course will help you understand how software is constructed to satisfy human requirements and some of the challenges and considerations associated with meeting actual human needs.

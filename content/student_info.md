@@ -19,11 +19,13 @@ See the "Apply to Join" link at the top of every page in the site!
 
 If accepted, students will take:
 
-* __Fall 2018__
+__Fall 2018__
+
   * Data Structures and Algorithms 1 (DSA 1)
   * Computer Organization and Architecture 1 (COA 1)
   * Discrete Mathematics (our current CS 2102 course) if you have not already taken it
-* __Spring 2019__
+  
+__Spring 2019__
   * Data Structures and Algorithms 2 (DSA 2)
   * Computer Organization and Architecture 2 (COA 2)
   * Software Engineering and Construction (SEC)

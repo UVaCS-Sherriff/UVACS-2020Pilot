@@ -21,8 +21,9 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-         ('Courses', '#'),
-         ('Piazza', '#')
+         ('DSA 1', '#'),
+         ('COA 1', '#'),
+         ('CS 2020 Piazza', 'https://piazza.com/class/jf2oe8mypdf3mk')
 )
 
 # Social widget
@@ -41,7 +42,7 @@ BOOTSTRAP_THEME = 'flatly'
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = (
-    ('Apply to Join', '#'),
+    ('Apply to Join', 'https://goo.gl/forms/GP1FkCng6Zd2vMC73'),
     ('Courses', 'http://stardock.cs.virginia.edu/pilot.cs/category/courses'),
     ('Info for Students', 'http://stardock.cs.virginia.edu/pilot.cs/category/students'),
     ('Info for Faculty', '#'),

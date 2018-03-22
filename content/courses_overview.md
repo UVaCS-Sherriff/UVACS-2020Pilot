@@ -22,7 +22,7 @@ In their place, students will take:
 * Data Structures and Algorithms (DSA) 1 & 2 - Covers material currently found in CS 2110, CS 2150, and CS 4102
 * Discrete Mathematics and Theory (DMT) 1 & 2 - Covers material currently found in CS 2102, CS 3102, and CS 4102
 * Computer Organization and Architecture (COA) 1 & 2 - Covers material currently found in ECE 2330 and CS 3330
-* Software Engineering and Construction (SEC) - Covers material currently found in CS 2110, CS 2150, CS 2190, and CS 3240
+* Software Engineering and Construction (SEC) - Covers material currently found in CS 2110, CS 2190, and CS 3240
 
 ### What courses are beign piloted in AY 2018-2019?
 

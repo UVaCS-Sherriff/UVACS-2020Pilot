@@ -44,7 +44,7 @@ MENUITEMS = (
     ('Apply to Join', '#'),
     ('Courses', '#'),
     ('Info for Students', '#'),
-    ('Info for Faculty', '#')
+    ('Info for Faculty', '#'),
     ('FAQ', '#')
 )
 

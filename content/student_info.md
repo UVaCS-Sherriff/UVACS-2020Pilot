@@ -7,7 +7,6 @@ Author: Mark Sherriff
 
 Students can participate if you meet the following qualifications:
 
-* Have declared a BS CS major in SEAS;
 * Are currently enrolled in or have already completed our Introduction to Programming requirement; and,
 * Have not yet taken CS 2110 or ECE 2330.
 
@@ -15,9 +14,11 @@ Students can participate if you meet the following qualifications:
 
 See the "Apply to Join" link at the top of every page in the site!
 
+__The deadline for applying to join is Friday, March 30, 2018!__
+
 ### If I am accepted, how does that change the courses I will take?
 
-If accepted, students will take:
+If accepted, students must take following course in the semesters indicated:
 
 __Fall 2018__
 

@@ -26,7 +26,7 @@ In their place, students will take:
 
 ### What courses are beign piloted in AY 2018-2019?
 
-For the pilot, we are focusing mainly on DSA 1 & 2, COA 1 & 2, and SEC.
+For the pilot, we are focusing on DSA 1 & 2, COA 1 & 2, and SEC.
 
 ### Course Descriptions
 

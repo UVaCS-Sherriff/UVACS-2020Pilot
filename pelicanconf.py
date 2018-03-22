@@ -42,8 +42,8 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = (
     ('Apply to Join', '#'),
-    ('Courses', 'category/courses'),
-    ('Info for Students', 'category/students'),
+    ('Courses', 'http://stardock.cs.virginia.edu/pilot.cs/category/courses'),
+    ('Info for Students', 'http://stardock.cs.virginia.edu/pilot.cs/category/students'),
     ('Info for Faculty', '#'),
     ('FAQ', '#')
 )

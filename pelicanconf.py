@@ -23,7 +23,8 @@ AUTHOR_FEED_RSS = None
 LINKS = (
          ('DSA 1', '#'),
          ('COA 1', '#'),
-         ('CS 2020 Piazza', 'https://piazza.com/class/jf2oe8mypdf3mk')
+         ('CS 2020 Piazza', 'https://piazza.com/class/jf2oe8mypdf3mk'),
+         ('Email for Questions', 'mailto:cs2020pilot-questions@virginia.edu')
 )
 
 # Social widget

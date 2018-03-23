@@ -39,6 +39,7 @@ And you will be given SIS exemptions for:
 * CS 2190
 * ECE 2330
 * CS 3240
+* CS 3330
 * CS 4102
 
 To maintain credit equivalency with the current system, you will be required to take one extra CS elective (6 instead of 5).

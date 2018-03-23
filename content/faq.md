@@ -3,6 +3,10 @@ Date: 2018-03-22
 Category: FAQ
 Author: Mark Sherriff
 
+### Do I have to be a CS major to be in the pilot?
+
+ 
+
 ### Which pilot course meets my requirement to take CS 2110?
 
 No one course does.

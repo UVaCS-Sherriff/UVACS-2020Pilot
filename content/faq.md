@@ -5,17 +5,9 @@ Author: Mark Sherriff
 
 ### Do I have to be a CS major to be in the pilot?
 
- 
+For the pilot running during the 2018-2019 academic year, we are focusing on students in the BSCS degree program.  Students that are interested in the BACS degree are allowed to apply and we may choose a set of potential BACS majors over the summer to join the program if there is space.  BACS requirements will be different than the ones listed below.
 
-### Which pilot course meets my requirement to take CS 2110?
-
-No one course does.
-The set of pilot courses together replace a set of courses, but there is not a one-to-one relationship between pilot courses and current course numbers.
-If you are in a degree program (other than CS) that requires some particular CS course, you need to take that course (or take the entire pilot).
-
-### Can I use the pilot to get a CS minor?
-
-If you complete the entire pilot, yes, but not by taking just a subset of its courses.
+At this time, we are not considering students who are not pursuing a CS degree.  CPE students cannot join the pilot at this time due to different course requirements.
 
 ### Why are there fewer courses in the Foundation Courses than what we take now in the BSCS?  Why are there more than what we take in the BACS?
 

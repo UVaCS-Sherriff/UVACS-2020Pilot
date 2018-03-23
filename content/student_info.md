@@ -7,8 +7,11 @@ Author: Mark Sherriff
 
 Students can participate if you meet the following qualifications:
 
+* Have declared or intend to declare the BSCS degree;
 * Are currently enrolled in or have already completed our Introduction to Programming requirement; and,
 * Have not yet taken CS 2110 or ECE 2330.
+
+__Note:__ Students that are interested in the BACS degree are allowed to apply and we may choose a set of potential BACS majors over the summer to join the program if there is space.  BACS requirements will be different than the ones listed below.
 
 ### How can I apply to join the pilot?
 

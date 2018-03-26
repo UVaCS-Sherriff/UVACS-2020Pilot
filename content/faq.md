@@ -21,3 +21,7 @@ The proposed Foundation Courses is made up of fewer credits than the existing BS
 ### Who will advise students in the pilot?
 
 For advising purposes, students will continue to be advised by their current CS advisor.  Information regarding courses will be posted to this website (http://pilot.cs.virginia.edu).  A Piazza message board has been been created for pilot students and advisors to ask questions of the pilot sub-committee of the UGCC.  Faculty and students can email cs2020pilot-questions@virginia.edu with any questions as well.  Town hall meetings will take place at least twice a semester to get feedback from pilot students and also to provide group advising as needed.  
+
+### If I miss the deadline and decide I want to join the pilot later, can I still apply?
+
+Yes!  We will look at the initial batch first, but will be looking at applications throughout the summer to fill any remaining slots.  

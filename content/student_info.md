@@ -19,6 +19,10 @@ See the "Apply to Join" link at the top of every page in the site!
 
 __The deadline for applying to join is Friday, March 30, 2018!__
 
+### If I miss the deadline and decide I want to join the pilot later, can I still apply?
+
+Yes!  We will look at the initial batch first, but will be looking at applications throughout the summer to fill any remaining slots.  
+
 ### If I am accepted, how does that change the courses I will take?
 
 If accepted, students must take following course in the semesters indicated:

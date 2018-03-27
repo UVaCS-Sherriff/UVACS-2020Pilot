@@ -25,3 +25,8 @@ For advising purposes, students will continue to be advised by their current CS 
 ### If I miss the deadline and decide I want to join the pilot later, can I still apply?
 
 Yes!  We will look at the initial batch first, but will be looking at applications throughout the summer to fill any remaining slots.  
+
+### It looks like the topics are being condensed...
+
+It does look like that, but not really. Partly we are removing some duplication (you don't need to learn binary numbers in four different courses). Partly there are some topics in some currently required courses that we do not believe are foundational, and we are moving out of the foundation (presumably into the appropriate track once we pilot the tracks). We do not expect the pilot to cover material any faster than do the current courses.
+

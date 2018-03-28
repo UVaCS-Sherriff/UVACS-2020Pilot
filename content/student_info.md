@@ -29,8 +29,8 @@ If accepted, students must take following course in the semesters indicated:
 
 __Fall 2018__
 
-  * Data Structures and Algorithms 1 (DSA 1)
-  * Computer Organization and Architecture 1 (COA 1)
+  * Data Structures and Algorithms 1 (DSA 1) w/ Prof. Floryan
+  * Computer Organization and Architecture 1 (COA 1) w/ Prof. Tychonievich
   * Discrete Mathematics (our current CS 2102 course) if you have not already taken it
 
 __Spring 2019__

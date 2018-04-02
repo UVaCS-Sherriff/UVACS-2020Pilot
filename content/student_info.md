@@ -17,7 +17,7 @@ __Note:__ Students that are interested in the BACS degree are allowed to apply a
 
 See the "Apply to Join" link at the top of every page in the site!
 
-__The deadline for applying to join is Friday, March 30, 2018!__
+Although the priority deadline for applying has past, we are still accepting applications.
 
 ### If I miss the deadline and decide I want to join the pilot later, can I still apply?
 

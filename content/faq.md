@@ -20,7 +20,7 @@ The proposed Foundation Courses is made up of fewer credits than the existing BS
 
 ### Who will advise students in the pilot?
 
-For advising purposes, students will continue to be advised by their current CS advisor.  Information regarding courses will be posted to this website (http://pilot.cs.virginia.edu).  A Piazza message board has been been created for pilot students and advisors to ask questions of the pilot sub-committee of the UGCC.  Faculty and students can email cs2020pilot-questions@virginia.edu with any questions as well.  Town hall meetings will take place at least twice a semester to get feedback from pilot students and also to provide group advising as needed.  
+For advising purposes, students will continue to be advised by their current CS advisor.  Information regarding courses will be posted to this website ([http://pilot.cs.virginia.edu](http://pilot.cs.virginia.edu)).  A Piazza message board has been been created for pilot students and advisors to ask questions of the pilot sub-committee of the UGCC.  Faculty and students can email [cs2020pilot-questions@virginia.edu](mailto:cs2020pilot-questions@virginia.edu) with any questions as well.  Town hall meetings will take place at least twice a semester to get feedback from pilot students and also to provide group advising as needed.  
 
 ### If I miss the deadline and decide I want to join the pilot later, can I still apply?
 
@@ -40,8 +40,9 @@ Fall 2018:
 - Enroll in the COA 1 pilot
     - CS 2501-300 (Luther Tychonievich, MoWeFr 2-2:50pm)
     - either CS 2501-301 or 2501-302 (the lab for 2501-300; Mo or Tu 6:30-7:45pm)
-- Enroll in Discrete Math (CS 2102), a prerequisite for DSA2
+- Enroll in Discrete Mathematics (CS 2102), a prerequisite for DSA2
     - at time of writing, TuTh 9:30-10:45 or 2-3:15 or 3:30-4:45, but that could change
+    - Discrete Mathematics is also offered [as a Summer course](http://summer.virginia.edu/discrete-mathematics) this summer
 - fill out your schedule however you desire
 
 Spring 2019:

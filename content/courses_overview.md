@@ -7,12 +7,12 @@ Author: Mark Sherriff
 
 We are redesigning and replacing the following courses to build the new Foundation Courses:
 
-* CS 2102 - Discrete Mathematics
+* CS 2102 - Discrete Mathematics (replacement not piloted until Fall 2019)
 * CS 2110 - Software Development Methods
 * CS 2150 - Program and Data Representation
 * CS 2190 - Computer Science Seminar
 * ECE 2330 - Digital Logic Design
-* CS 3102 - Theory of Computation
+* CS 3102 - Theory of Computation (replacement not piloted until Fall 2019)
 * CS 3240 - Advanced Software Development
 * CS 3330 - Computer Architecture
 * CS 4102 - Algorithms
@@ -20,7 +20,7 @@ We are redesigning and replacing the following courses to build the new Foundati
 In their place, students will take:
 
 * Data Structures and Algorithms (DSA) 1 & 2 - Covers material currently found in CS 2110, CS 2150, and CS 4102
-* Discrete Mathematics and Theory (DMT) 1 & 2 - Covers material currently found in CS 2102, CS 3102, and CS 4102
+* Discrete Mathematics and Theory (DMT) 1 & 2 - Covers material currently found in CS 2102, CS 3102, and CS 4102  (not piloted until the 2019--2020 school year)
 * Computer Organization and Architecture (COA) 1 & 2 - Covers material currently found in ECE 2330 and CS 3330
 * Software Engineering and Construction (SEC) - Covers material currently found in CS 2110, CS 2190, and CS 3240
 

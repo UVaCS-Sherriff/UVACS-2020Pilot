@@ -5,7 +5,7 @@ Author: Mark Sherriff
 
 ### Do I have to be a CS major to be in the pilot?
 
-For the pilot running during the 2018-2019 academic year, we are focusing on students in the BSCS degree program.  Students that are interested in the BACS degree are allowed to apply and we may choose a set of potential BACS majors over the summer to join the program if there is space.  BACS requirements will be different than the ones listed below.
+For the pilot running during the 2018-2019 academic year, we are focusing on students in the BSCS and BACS degree programs.  There are some minor differences in the requirements for each of the degree paths through the pilot.
 
 At this time, we are not considering students who are not pursuing a CS degree.  CPE students cannot join the pilot at this time due to different course requirements.
 

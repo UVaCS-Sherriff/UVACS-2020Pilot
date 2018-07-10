@@ -43,9 +43,9 @@ BOOTSTRAP_THEME = 'flatly'
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = (
-    ('Apply to Join', 'https://goo.gl/forms/GP1FkCng6Zd2vMC73'),
     ('Courses', '/category/courses'),
     ('Info for Students', '/category/students'),
+    ('Info for Incoming First Years', 'https://docs.google.com/document/d/1esOQQzBNSdaqjaaDFu3IZenMF8szbSURsP0aNKxRqXI/edit?usp=sharing'),
     ('Info for Faculty', '/category/faculty'),
     ('FAQ', '/category/faq')
 )

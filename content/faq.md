@@ -24,7 +24,15 @@ For advising purposes, students will continue to be advised by their current CS 
 
 ### If I miss the deadline and decide I want to join the pilot later, can I still apply?
 
+<!--
 Yes!  We will look at the initial batch first, but will be looking at applications throughout the summer to fill any remaining slots.  
+-->
+
+There were in practice two deadlines.
+
+The first deadline was an application deadline, and missing it merely reduced your chances of being accepted if we got to many applicants.
+
+The second deadline is the add deadline for the first semester of the pilot courses. Because the pilot is a set of courses to be taken as a block and do not individually map to specific non-pilot courses, there is no ability to add the pilot part-way through.
 
 ### It looks like the topics are being condensed...
 

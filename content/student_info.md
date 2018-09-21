@@ -5,6 +5,12 @@ Author: Mark Sherriff
 
 ### Can I participate in the pilot?
 
+Not any more. The pilot is a set of courses to be taken together, offered Fall 2018 and Spring 2019, so if you did not take the Fall 2018 pilot courses you cannot be added to the pilot thereafter.
+
+We may run additional pilots in coming calendar years; you might want to revisit this site during the Spring to see if there is a Fall 2019 pilot you qualify for.
+
+<!--
+
 Students can participate if you meet the following qualifications:
 
 * Have declared or intend to declare the BSCS degree;
@@ -12,6 +18,7 @@ Students can participate if you meet the following qualifications:
 * Have not yet taken CS 2110 or ECE 2330.
 
 __Note:__ Students that are interested in the BACS degree are allowed to apply and we may choose a set of potential BACS majors over the summer to join the program if there is space.  BACS requirements will be different than the ones listed below.
+
 
 ### How can I apply to join the pilot?
 
@@ -22,6 +29,9 @@ Although the priority deadline for applying has past, we are still accepting app
 ### If I miss the deadline and decide I want to join the pilot later, can I still apply?
 
 Yes!  We will look at the initial batch first, but will be looking at applications throughout the summer to fill any remaining slots.  
+
+-->
+
 
 ### If I am accepted, how does that change the courses I will take?
 

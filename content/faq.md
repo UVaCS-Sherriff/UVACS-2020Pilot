@@ -59,7 +59,7 @@ Spring 2019:
     - Instructor and times not yet announced
 - Enroll in the COA 2 pilot
     - Instructor and times not yet announced
-- Enroll in the SEC pilot
+- Enroll in the SDE pilot
     - Instructor and times not yet announced
 - fill out your schedule however you desire
 

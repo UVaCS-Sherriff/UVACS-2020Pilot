@@ -45,9 +45,9 @@ __Fall 2018__
 
 __Spring 2019__
 
-  * Data Structures and Algorithms 2 (DSA 2)
-  * Computer Organization and Architecture 2 (COA 2)
-  * Software Development Essentials (SDE)
+  * Data Structures and Algorithms 2 (DSA 2) w/ Prof. Pettit
+  * Computer Organization and Architecture 2 (COA 2) w/ Prof. Tychonievich
+  * Software Development Essentials (SDE) w/ Prof. Horton
 
 And you will be given SIS exemptions for:
 

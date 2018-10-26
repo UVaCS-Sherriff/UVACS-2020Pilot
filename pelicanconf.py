@@ -21,8 +21,11 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-         ('DSA 1', '#'),
-         ('COA 1', '#'),
+         ('DSA 1', 'http://pilot.cs.virginia.edu/category/students'),
+         ('COA 1', 'http://www.cs.virginia.edu/luther/COA1/'),
+         ('DSA 2', 'http://pilot.cs.virginia.edu/category/students'),
+         ('COA 2', 'http://www.cs.virginia.edu/luther/COA2/'),
+         ('SDE', 'http://bit.ly/cs2501-sde-s19-info'),
          ('CS 2020 Piazza', 'https://piazza.com/class/jf2oe8mypdf3mk'),
          ('Email for Questions', 'mailto:cs2020pilot-questions@virginia.edu')
 )

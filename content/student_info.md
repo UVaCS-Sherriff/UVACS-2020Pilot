@@ -4,21 +4,20 @@ Category: Students
 Author: Mark Sherriff
 
 ### Can I participate in the pilot?
-
+<!-- 
 Not any more. The pilot is a set of courses to be taken together, offered Fall 2018 and Spring 2019, so if you did not take the Fall 2018 pilot courses you cannot be added to the pilot thereafter.
 
 We may run additional pilots in coming calendar years; you might want to revisit this site during the Spring to see if there is a Fall 2019 pilot you qualify for.
 
-<!--
+-->
 
 Students can participate if you meet the following qualifications:
 
-* Have declared or intend to declare the BSCS degree;
+* Have declared or intend to declare the BSCS or BACS degree;
 * Are currently enrolled in or have already completed our Introduction to Programming requirement; and,
 * Have not yet taken CS 2110 or ECE 2330.
-
+<!--
 __Note:__ Students that are interested in the BACS degree are allowed to apply and we may choose a set of potential BACS majors over the summer to join the program if there is space.  BACS requirements will be different than the ones listed below.
-
 
 ### How can I apply to join the pilot?
 
@@ -32,18 +31,17 @@ Yes!  We will look at the initial batch first, but will be looking at applicatio
 
 -->
 
+### What courses I will take?
 
-### If I am accepted, how does that change the courses I will take?
+Students must take following course in the semesters indicated:
 
-If accepted, students must take following course in the semesters indicated:
-
-__Fall 2018__
+__Fall 2019__
 
   * Data Structures and Algorithms 1 (DSA 1) w/ Prof. Floryan
   * Computer Organization and Architecture 1 (COA 1) w/ Prof. Tychonievich
   * Discrete Mathematics (our current CS 2102 course) if you have not already taken it
 
-__Spring 2019__
+__Spring 2020__
 
   * Data Structures and Algorithms 2 (DSA 2) w/ Prof. Pettit
   * Computer Organization and Architecture 2 (COA 2) w/ Prof. Tychonievich

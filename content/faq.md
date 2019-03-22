@@ -5,7 +5,7 @@ Author: Mark Sherriff
 
 ### Do I have to be a CS major to be in the pilot?
 
-For the pilot running during the 2018-2019 academic year, we are focusing on students in the BSCS and BACS degree programs.  There are some minor differences in the requirements for each of the degree paths through the pilot.
+For the pilot running during the 2019-2020 academic year, we are focusing on students in the BSCS and BACS degree programs.  There are some minor differences in the requirements for each of the degree paths through the pilot.
 
 At this time, we are not considering students who are not pursuing a CS degree.  CPE students cannot join the pilot at this time due to different course requirements.
 
@@ -22,17 +22,17 @@ The proposed Foundation Courses is made up of fewer credits than the existing BS
 
 For advising purposes, students will continue to be advised by their current CS advisor.  Information regarding courses will be posted to this website ([http://pilot.cs.virginia.edu](http://pilot.cs.virginia.edu)).  A Piazza message board has been been created for pilot students and advisors to ask questions of the pilot sub-committee of the UGCC.  Faculty and students can email [cs2020pilot-questions@virginia.edu](mailto:cs2020pilot-questions@virginia.edu) with any questions as well.  Town hall meetings will take place at least twice a semester to get feedback from pilot students and also to provide group advising as needed.  
 
-### If I miss the deadline and decide I want to join the pilot later, can I still apply?
+<!-- ### If I miss the deadline and decide I want to join the pilot later, can I still apply?
 
 <!--
 Yes!  We will look at the initial batch first, but will be looking at applications throughout the summer to fill any remaining slots.  
--->
+
 
 There were in practice two deadlines.
 
-The first deadline was an application deadline, and missing it merely reduced your chances of being accepted if we got to many applicants.
+The first deadline was an application deadline, and missing it merely reduced your chances of being accepted if we got to many applicants. 
 
-The second deadline is the add deadline for the first semester of the pilot courses. Because the pilot is a set of courses to be taken as a block and do not individually map to specific non-pilot courses, there is no ability to add the pilot part-way through.
+The second deadline is the add deadline for the first semester of the pilot courses. Because the pilot is a set of courses to be taken as a block and do not individually map to specific non-pilot courses, there is no ability to add the pilot part-way through. -->
 
 ### It looks like the topics are being condensed...
 
@@ -40,20 +40,19 @@ It does look like that, but not really. Partly we are removing some duplication 
 
 ### If I do this, what will my schedule look like?
 
-Fall 2018:
+Fall 2019:
 
 - Enroll in the DSA 1 pilot
-    - CS 2501-200 (Mark Floryan, MoWeFr 12-12:50pm)
+    - CS 2501-100 (Mark Floryan, MoWeFr 10:00-10:50am)
     - either CS 2501-201 or 2501-202 (the lab for 2501-200; We or Th 6:30-7:45pm)
 - Enroll in the COA 1 pilot
-    - CS 2501-300 (Luther Tychonievich, MoWeFr 2-2:50pm)
+    - CS 2501-200 (Luther Tychonievich, MoWeFr 2:00-2:50pm)
     - either CS 2501-301 or 2501-302 (the lab for 2501-300; Mo or Tu 6:30-7:45pm)
 - Enroll in Discrete Mathematics (CS 2102), a prerequisite for DSA2
-    - at time of writing, TuTh 9:30-10:45 or 2-3:15 or 3:30-4:45, but that could change
     - Discrete Mathematics is also offered [as a Summer course](http://summer.virginia.edu/discrete-mathematics) this summer
 - fill out your schedule however you desire
 
-Spring 2019:
+Spring 2020:
 
 - Enroll in the DSA 2 pilot
     - Instructor and times not yet announced

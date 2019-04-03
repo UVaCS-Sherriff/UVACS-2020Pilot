@@ -20,7 +20,7 @@ We are redesigning the following courses to build the new Foundation Courses:
 In their place, students will take:
 
 * Data Structures and Algorithms (DSA) 1 & 2 - Covers material currently found in CS 2110, CS 2150, and CS 4102
-* Discrete Mathematics and Theory (DMT) 1 & 2 - Covers material currently found in CS 2102, CS 3102, and CS 4102  (not piloted until the 2020--2021 school year)
+* Discrete Mathematics and Theory (DMT) 1 & 2 - Covers material currently found in CS 2102, CS 3102, and CS 4102  (not piloted until the 2020–2021 school year)
 * Computer Organization and Architecture (COA) 1 & 2 - Covers material currently found in ECE 2330 and CS 3330
 * Software Development Essentials (SDE) - Covers material currently found in CS 2110, CS 2190, and CS 3240
 

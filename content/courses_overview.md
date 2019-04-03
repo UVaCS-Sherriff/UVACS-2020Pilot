@@ -7,12 +7,12 @@ Author: Mark Sherriff
 
 We are redesigning the following courses to build the new Foundation Courses:
 
-* CS 2102 - Discrete Mathematics (replacement not piloted until Spring 2020)
+* CS 2102 - Discrete Mathematics (replacement not piloted until Spring 2021)
 * CS 2110 - Software Development Methods
 * CS 2150 - Program and Data Representation
 * CS 2190 - Computer Science Seminar
 * ECE 2330 - Digital Logic Design
-* CS 3102 - Theory of Computation (replacement not piloted until Spring 2020)
+* CS 3102 - Theory of Computation (replacement not piloted until Spring 2021)
 * CS 3240 - Advanced Software Development
 * CS 3330 - Computer Architecture
 * CS 4102 - Algorithms

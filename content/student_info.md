@@ -25,7 +25,7 @@ __Spring 2020__
 
   * Data Structures and Algorithms 2 (DSA 2) w/ Prof. Pettit
   * Computer Organization and Architecture 2 (COA 2) w/ Prof. Tychonievich
-  * Software Development Essentials (SDE) w/ Prof. Horton
+  * Software Development Essentials (SDE) w/ Prof. McBurney
 
 And you will be given SIS exemptions for:
 
@@ -47,6 +47,7 @@ And you will be given SIS exemptions for:
 * BACS students in the pilot will not be required to take SDE in Spring 2020, but can do so as one of your CS electives.
 * BACS students must take CS 3102 as one of their 4 CS Electives to complete all of the Foundation Courses (note that BS students already have to take CS 3102).
 * Being in the pilot does not affect the Integration Elective requirement.
+* You must successfully complete both DSA 1 and COA 1 before you can declare the major.
 
 ### Why should I take part in the pilot?
 

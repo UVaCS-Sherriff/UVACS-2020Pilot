@@ -44,13 +44,13 @@ Fall 2019:
 
 - Enroll in the DSA 1 pilot
     - CS 2501-100 (Mark Floryan, MoWeFr 10:00-10:50am)
-    - either CS 2501-201 or 2501-202 (the lab for 2501-200; We or Th 6:30-7:45pm)
+    - either CS 2501-101 or 2501-102 (the lab for 2501-100; Mo or Tu 5:00-6:15PM)
 - Enroll in the COA 1 pilot
-    - CS 2501-200 (Luther Tychonievich, MoWeFr 2:00-2:50pm)
-    - either CS 2501-301 or 2501-302 (the lab for 2501-300; Mo or Tu 6:30-7:45pm)
+    - CS 2501-200 (Luther Tychonievich, MoWeFr 1:00-1:50pm)
+    - either CS 2501-201 or 2501-202 (the lab for 2501-200; We or Th 5:00-6:15PM)
 - Enroll in Discrete Mathematics (CS 2102), a prerequisite for DSA2
     - Discrete Mathematics is also offered [as a Summer course](http://summer.virginia.edu/discrete-mathematics) this summer
-- fill out your schedule however you desire
+- Fill out your schedule however you desire (or SEAS first years - choose a template that works with this schedule)
 
 Spring 2020:
 
@@ -64,7 +64,7 @@ Spring 2020:
 
 Remaining requirements:
 
-- Take CS 3102 (a normal BSCS requirement, also required of BACS in the pilot) could be Spring 2019 or later
-- Take CS 4414 (a normal BSCS requirement, not required of BACS in the pilot) could be Fall 2019 or later
-- Take CS electives: 6 for BSCS, 3 for BACS -- can start in Fall 2019
+- Take CS 3102 (a normal BSCS requirement, also required of BACS in the pilot) could be Spring 2020 or later
+- Take CS 4414 (a normal BSCS requirement, not required of BACS in the pilot) could be Fall 2020 or later
+- Take CS electives: 6 for BSCS, 3 for BACS -- can start in Fall 2020
 - Take the BSCS capstone and non-CS requirements like normal

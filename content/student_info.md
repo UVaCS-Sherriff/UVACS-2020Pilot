@@ -45,7 +45,7 @@ And you will be given SIS exemptions for:
 ### Are there any special rules for BACS students?
 
 * The CS Pilot is generally impractical for first-year College students because of required first-year College general education requirements.  First-year College students should consider enrolling in the “current” curriculum instead. The pilot is a better fit for second-year College students.
-* BACS students in the pilot will not be required to take SDE in Spring 2020, but can do so as one of your CS electives (counts as CS 3240).
+* BACS students in the pilot will not be required to take SDE, but can do so as one of your CS electives (counts as CS 3240).
 * BACS students must take CS 3102 as one of their 4 CS Electives to complete all of the Foundation Courses (note that BS students already have to take CS 3102).
 * Being in the pilot does not affect the Integration Elective requirement.
 * You must successfully complete both DSA 1 and COA 1 before you can declare the major.
